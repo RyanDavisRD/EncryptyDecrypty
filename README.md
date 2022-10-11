@@ -1,5 +1,5 @@
 # EncryptyDecrypty
- Welcome To a python script that will encrypt and decrypt files.
+ Welcome to a python script that will encrypt and decrypt files.
 
  You must intall cryptography for this to work.
 
